@@ -1,0 +1,438 @@
+body{
+    background-color:rgb(213,213,222);
+} 
+ nav{
+    display: inline;
+    padding: -6px;
+    list-style: none;
+    
+}
+nav li{
+   /* padding: 1%; */
+    display:inline;
+    margin-left: 15%;
+   padding-right: 1;
+   
+  
+}
+.nar.home{
+    color: rgb(7, 192, 192);
+}
+.third{
+    background-color: white;
+}
+.second{
+    background-color: white;
+}
+.firstline{
+
+    background-color:rgb(255,255,255);
+}
+.paragraph h1{
+   color: #663300;
+    font-size: 40px;
+    margin-top: -10%;
+}
+.work img{
+    width: 80px;
+}
+#abu{
+    color: blue;
+}
+.des{
+    color: blue;
+    background-color: white;
+    border-radius: 50px;
+    width: 10px;
+}
+.desktop{
+    border: solid white;
+    border-radius: 50%;
+   width: 20%;
+    height: 5vh;
+    color: black;
+    background-color: white;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.mark{
+    border: solid white;
+    border-radius: 50%;
+   width: 20%;
+    height: 5vh;
+    color: white;
+    background-color:yellow;
+    padding-left: 15px;
+    padding-top: 10px;
+
+}
+.flags{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    margin-top: -83px;
+    font-size: 12px;
+}
+.flags img{
+    width: 50px;
+    height: 5vh;
+   
+}
+.buttn{
+   margin-left: 87%;
+   background-color: rgb(85,132,245);
+    width: 10%;
+    height: 7vh;
+   color: white;
+   border-radius: 10px;
+   margin-top: -10px;
+  
+}
+label{
+    color: blue;
+}
+.camera{
+    border: 2px solid yellow;
+    width: 2%;
+    background-color: yellow;
+    border-radius: 50%;
+    
+}
+.twitter{
+    margin-left: 10%;
+    margin-top: -2%;
+    border: 2px solid;
+    background-color: rgb(47, 0, 255);
+    border-radius: 50%;
+    width: 2%;
+}
+.button{
+    border: 2px solid rgb(67,160,145) ;
+    width: 40%;
+    height: 6vh;
+    background-color:rgb(67,160,145)  ;
+    border-radius: 10px;
+    color: white;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.first{
+    display: flex;
+}
+.paragraph1{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.experience{
+    display: flex;
+    padding: 5%;
+    margin-top: -15%;
+}
+.years{
+    padding: 10%;
+ 
+   
+}
+.members{
+    padding: 10%;
+}
+.projects{
+    padding: 10%;
+}
+.image img{
+    width: 50%;
+    height: 30%;
+    padding: 30%;
+    margin-left: 5%;
+    padding-bottom: 5%;
+}
+.imagess img{
+    /* width: 30%;
+    height: 40%;
+    padding: 1%;
+    margin-left: 20%;
+    padding-bottom: 2%; */
+    width: 40%;
+    height: 40%;
+    padding: 10%;
+    margin-right: 20%;
+    margin: 2;
+    padding-left: 12%;
+    
+    
+}
+#flag{
+    color: rgb(56, 41, 124);
+}
+.images img{
+    /* width: 130%;
+    height: 50%;
+    padding: 1%;
+    margin-right: 20%;
+    margin: 2;
+    padding-left: 12%; */
+    width: 60%;
+    height: 50%;
+    padding: 2%;
+    margin-right: 2%;
+    margin: 1;
+    padding-left: 12%;
+    margin-top: -90%;
+    
+
+
+ 
+}
+.images{
+    margin-left: 10%;
+    margin: 12%;
+    padding: -3%;
+    width: 60%;
+    height: 40%;
+
+
+}
+.second{
+    display: flex;
+    margin-top: -23%;
+    padding: 9%;
+}
+.logo{
+    font-size: larger;
+    padding-top: 4%;
+    color: gray;
+}
+.header{
+    margin-left: 40%;
+
+}
+.header h1{
+    color: 	#663300;
+}
+.section{
+    display: flex;
+    display: 50px;
+    margin-left: 50px;
+}
+.design{
+    padding: 5%;
+    margin-left: 5%;
+    background-color: rgb(245,249,250);
+   
+}
+.develop{
+    padding: 5%;
+    background-color:rgb(67,160,145);
+    
+    color: white;
+}
+.imgs{
+    background-image: url(/images/splash-png-clipart-removebg-preview.png);
+    display: flex;
+    padding-top: 10px;
+    background-repeat: no-repeat;
+}
+.imgs img{
+    width: 50%;
+    padding: 2%;
+}
+
+.market{
+    padding: 5%;
+    background-color: rgb(245,249,250) ;
+   
+}
+.fifth{
+    background-color: white;
+}
+.styling{
+    display: flex;
+}
+.divs{
+    padding: 5%;
+    font-size: x-large;
+}
+.work h1{
+    color: 	 #663300;
+} 
+.fourth{
+    background-color: white;
+    padding-top: 10px;
+}
+
+.email{
+    margin-left: 20%;
+ 
+}
+.email h6{
+    margin-left: 12%;
+    font-size: 15px;
+}
+.adress{
+    border:1px solid black;
+    height: 5vh;
+    width: 50%;
+    padding-bottom: 2%;
+    background-color:rgb(67,160,145);
+    padding-left: 10%;
+    padding-top: 5%;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+}
+
+
+.ig{
+    color: yellow;
+}
+#tweet{
+    color: rgb(51, 153, 128);
+}
+.sub{
+    background-color:rgb(51, 153, 128) ;
+    padding: 3% 5%;
+    margin-left: 38%;
+    border-radius: 10px;
+    margin-bottom: 2%;
+    font-size: large;
+    width: 60%;
+}
+input
+{
+    height: 7vh;
+    width: 130%;
+    border-color: none;
+    border: none;
+    outline: none;
+    
+}
+.Done{
+    margin-left: 10%;
+ 
+  
+   
+}
+.input{
+    border: none;
+    outline: none;
+    background-color:rgb(213,213,222) ;
+}
+.preposition{
+    margin-top: -5%;
+  background-color: white;
+ 
+   
+}
+.lastpicture{
+    margin-top: -30%;
+    margin-left: 30%;
+    
+}
+.final{
+    display: flex;
+}
+.color{
+    background-color: #ECF9FD;
+}
+
+.both{
+    display: flex;
+}
+.divs H2{
+    color: #663300;
+}
+.one{
+  margin: 5%;
+  border: 2px solid rgb(67,160,145) ;
+  width: 40%;
+  height: 6vh;
+  background-color:rgb(67,160,145)  ;
+  border-radius: 10px;
+  color: rgb(22, 2, 2);
+  padding-top: 5%;
+  padding-left: 5%;
+}
+.myicon{
+
+    color: blue;
+}
+.position{
+    /* padding-top: 15%; */
+    margin-left: 10%;
+    font-size: 20px;
+    margin-top: 6%;
+    background-color: white;
+   
+   
+}
+.subscribe{
+    background-color:blue ;
+    padding: 4% 10%;
+    margin-left: 36%;
+    border-radius: 10px;
+    margin-bottom: -2%;
+    font-size: large;
+    width: 40%;  
+    color: #ECF9FD;
+    text-align: center;
+}
+.socialmedia{
+    margin-left: 10%;
+    font-size: 30px;
+}
+.one{
+    border: 2px solid wheat;
+    background-color: white;
+}
+.num1{
+    /* border: 4px solid white; */
+  border-radius: 50%;    
+   color: white;
+    background-color: rgb(51, 153, 128);
+    padding: 10px;
+   font-size: xx-large;
+   height: 10vh;
+   width: 30px;
+}
+
+.fine{
+    background-color: white;
+}
+.num2{
+
+    border-radius: 100%;
+   color: white;
+    background-color: rgb(24, 85, 177);
+    padding: 10px;
+    font-size: xx-large;
+    height: 10vh;
+    width: 30px;
+}
+.num3{
+    border: 4px solid white;
+    border-radius: 40%;
+   color: white;
+    background-color: rgb(224, 221, 28);
+    padding: 10px;
+    font-size: xx-large;
+  
+}
+.firstpic{
+    background-image: url(background-removebg.png);
+    margin-left: 60px;
+}
+.lastpicture img{
+    background-image: url(/images/background-removebg.png);
+    height: 50vh;
+    margin-left: 100px;
+}
+.form2{
+  background-color: white;  
+}
+.final{
+    background-color: white;
+}
+.main{
+    background-color: white;
+}
+.form{
+    background-color: white;
+}
